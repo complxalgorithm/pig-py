@@ -1,2 +1,2 @@
 # pig-py
-Basic Pig game written in Python
+Basic Pig command line game written in Python
